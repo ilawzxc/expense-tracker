@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/eponlogo.png') }}" width="60px" >
